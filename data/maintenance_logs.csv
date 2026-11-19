@@ -1,0 +1,404 @@
+log_id,date,tail_number,ata_chapter,component,description,severity,status,technician,flight_hours_at_report
+ML-10135,2026-01-01,N163JE,34,Navigation,ADIRU 1 fault message after power-up,minor,closed,Diego Alvarez,11323
+ML-10216,2026-01-01,N135FQ,21,Air conditioning pack,"Cabin too warm, pack 1 flow low",minor,closed,Lena Fischer,21619
+ML-10149,2026-01-02,N205PW,36,Pneumatic bleed,Bleed trip off engine 2 at high power,minor,closed,Mei Chen,7599
+ML-10248,2026-01-02,N128EN,34,Navigation,ADIRU 1 fault message after power-up,major,closed,Lena Fischer,20955
+ML-10140,2026-01-03,N142GT,29,Hydraulic pump,Hyd sys A pressure fluctuating,minor,closed,Sam Okafor,15513
+ML-10205,2026-01-03,N135FQ,72,Engine,Engine 1 EGT margin trending down,major,closed,Diego Alvarez,21573
+ML-10369,2026-01-04,N142GT,79,Engine oil,Engine 2 oil filter bypass message,critical,closed,Sam Okafor,13635
+ML-10032,2026-01-05,N163JE,36,Pneumatic bleed,Bleed trip off engine 1 at high power,minor,closed,Priya Raman,12785
+ML-10092,2026-01-05,N198OT,32,Landing gear,Brake 2 wear pin at limit,major,closed,Sam Okafor,20071
+ML-10194,2026-01-06,N114CH,49,APU,APU EGT high during ground ops,minor,closed,Sam Okafor,31705
+ML-10225,2026-01-08,N149HW,72,Engine,Engine 2 EGT margin trending down,minor,closed,Lena Fischer,22429
+ML-10247,2026-01-08,N226SH,49,APU,APU EGT high during ground ops,major,closed,Alex Morgan,22623
+ML-10326,2026-01-10,N163JE,32,Landing gear,Main gear tire 2 cut found on walkaround,minor,closed,Diego Alvarez,11158
+ML-10024,2026-01-12,N184MN,79,Engine oil,Engine 1 oil filter bypass message,major,closed,Mei Chen,18591
+ML-10132,2026-01-13,N226SH,79,Engine oil,Engine 1 oil filter bypass message,major,closed,Mei Chen,24196
+ML-10099,2026-01-14,N142GT,29,Hydraulic pump,Hyd sys B pressure fluctuating,minor,closed,Priya Raman,14991
+ML-10236,2026-01-14,N191NQ,36,Pneumatic bleed,Bleed trip off engine 2 at high power,major,closed,Alex Morgan,29083
+ML-10261,2026-01-14,N170KH,32,Landing gear,Nose gear steering shimmy on landing roll,critical,closed,Sam Okafor,40004
+ML-10364,2026-01-14,N205PW,32,Landing gear,Main gear tire 1 cut found on walkaround,minor,closed,Diego Alvarez,8163
+ML-10271,2026-01-15,N219RE,79,Engine oil,Engine 1 low oil pressure indication,minor,closed,Lena Fischer,41524
+ML-10045,2026-01-17,N198OT,21,Air conditioning pack,Pack 1 outlet temp high during climb,minor,closed,Mei Chen,20423
+ML-10359,2026-01-17,N219RE,32,Landing gear,Main gear tire 1 cut found on walkaround,major,closed,Sam Okafor,41607
+ML-10230,2026-01-18,N212QB,34,Navigation,Weather radar intermittent,minor,closed,Diego Alvarez,27429
+ML-10300,2026-01-18,N128EN,29,Hydraulic pump,Hyd sys B pressure fluctuating,critical,closed,Sam Okafor,20811
+ML-10228,2026-01-20,N163JE,36,Pneumatic bleed,Duct overheat light engine 2,minor,closed,Alex Morgan,12624
+ML-10208,2026-01-21,N219RE,79,Engine oil,Engine 2 low oil pressure indication,minor,closed,Mei Chen,40069
+ML-10333,2026-01-22,N114CH,21,Air conditioning pack,Pack 1 outlet temp high during climb,critical,closed,Alex Morgan,31952
+ML-10295,2026-01-25,N170KH,72,Engine,Engine 1 EGT margin trending down,minor,closed,Mei Chen,40724
+ML-10016,2026-01-26,N114CH,36,Pneumatic bleed,Bleed trip off engine 2 at high power,major,closed,Sam Okafor,32017
+ML-10120,2026-01-26,N170KH,79,Engine oil,Engine 1 oil filter bypass message,major,closed,Diego Alvarez,40243
+ML-10221,2026-01-26,N184MN,72,Engine,Engine 1 oil consumption high,minor,closed,Alex Morgan,18982
+ML-10011,2026-01-27,N191NQ,49,APU,APU EGT high during ground ops,minor,closed,Diego Alvarez,27807
+ML-10243,2026-01-29,N233TK,32,Landing gear,Brake 1 wear pin at limit,minor,closed,Mei Chen,29145
+ML-10165,2026-01-30,N123AB,79,Engine oil,Engine 1 oil filter bypass message,critical,closed,Mei Chen,40085
+ML-10174,2026-01-31,N156IB,21,Air conditioning pack,Pack 2 outlet temp high during climb,minor,closed,Priya Raman,37867
+ML-10366,2026-01-31,N170KH,72,Engine,Engine 2 vibration N1 above normal in cruise,major,closed,Mei Chen,40472
+ML-10385,2026-01-31,N205PW,32,Landing gear,Main gear tire 1 cut found on walkaround,major,closed,Lena Fischer,7701
+ML-10037,2026-02-01,N177LK,36,Pneumatic bleed,Bleed trip off engine 2 at high power,minor,closed,Sam Okafor,46426
+ML-10042,2026-02-01,N233TK,49,APU,APU EGT high during ground ops,minor,closed,Diego Alvarez,29403
+ML-10071,2026-02-01,N191NQ,32,Landing gear,Main gear tire 2 cut found on walkaround,critical,closed,Alex Morgan,28399
+ML-10070,2026-02-03,N170KH,79,Engine oil,Engine 2 oil filter bypass message,critical,closed,Alex Morgan,39920
+ML-10379,2026-02-04,N212QB,79,Engine oil,Engine 2 low oil pressure indication,critical,closed,Sam Okafor,27622
+ML-10076,2026-02-07,N156IB,21,Air conditioning pack,Pack 1 outlet temp high during climb,minor,closed,Mei Chen,38069
+ML-10111,2026-02-07,N233TK,49,APU,APU EGT high during ground ops,minor,closed,Mei Chen,29037
+ML-10193,2026-02-07,N191NQ,34,Navigation,ADIRU 1 fault message after power-up,minor,closed,Priya Raman,28396
+ML-10397,2026-02-07,N198OT,21,Air conditioning pack,"Cabin too warm, pack 1 flow low",minor,closed,Sam Okafor,20290
+ML-10266,2026-02-08,N184MN,72,Engine,Engine 2 EGT margin trending down,critical,closed,Priya Raman,18241
+ML-10292,2026-02-09,N121DK,32,Landing gear,Brake 1 wear pin at limit,major,closed,Sam Okafor,18643
+ML-10083,2026-02-10,N226SH,34,Navigation,ADIRU 1 fault message after power-up,minor,closed,Alex Morgan,23718
+ML-10123,2026-02-10,N163JE,79,Engine oil,Engine 1 low oil pressure indication,major,closed,Alex Morgan,12914
+ML-10232,2026-02-10,N114CH,34,Navigation,Weather radar intermittent,major,closed,Priya Raman,31460
+ML-10257,2026-02-11,N233TK,36,Pneumatic bleed,Duct overheat light engine 1,minor,closed,Diego Alvarez,29903
+ML-10302,2026-02-12,N233TK,32,Landing gear,Main gear tire 2 cut found on walkaround,major,closed,Lena Fischer,28963
+ML-10017,2026-02-13,N121DK,34,Navigation,ADIRU 1 fault message after power-up,minor,closed,Priya Raman,18073
+ML-10148,2026-02-13,N114CH,36,Pneumatic bleed,Bleed trip off engine 1 at high power,major,closed,Alex Morgan,31755
+ML-10082,2026-02-14,N135FQ,49,APU,APU auto shutdown on start,major,closed,Sam Okafor,22360
+ML-10030,2026-02-15,N123AB,21,Air conditioning pack,Pack 2 outlet temp high during climb,minor,closed,Diego Alvarez,40649
+ML-10044,2026-02-16,N177LK,29,Hydraulic pump,Hyd sys B pressure fluctuating,minor,closed,Mei Chen,47222
+ML-10077,2026-02-16,N170KH,49,APU,APU auto shutdown on start,major,closed,Alex Morgan,41292
+ML-10207,2026-02-16,N163JE,79,Engine oil,Engine 1 low oil pressure indication,major,closed,Diego Alvarez,11809
+ML-10348,2026-02-16,N198OT,21,Air conditioning pack,Pack 2 outlet temp high during climb,major,closed,Lena Fischer,21450
+ML-10164,2026-02-18,N149HW,34,Navigation,Weather radar intermittent,major,closed,Alex Morgan,22954
+ML-10313,2026-02-18,N184MN,34,Navigation,ADIRU 1 fault message after power-up,major,closed,Diego Alvarez,17767
+ML-10399,2026-02-18,N191NQ,79,Engine oil,Engine 1 low oil pressure indication,major,closed,Sam Okafor,28664
+ML-10096,2026-02-19,N205PW,36,Pneumatic bleed,Bleed trip off engine 1 at high power,critical,closed,Lena Fischer,7607
+ML-10171,2026-02-19,N198OT,36,Pneumatic bleed,Bleed trip off engine 2 at high power,minor,closed,Diego Alvarez,21464
+ML-10276,2026-02-20,N212QB,29,Hydraulic pump,Hyd pump 2 low pressure light on taxi,critical,closed,Sam Okafor,28225
+ML-10336,2026-02-20,N198OT,32,Landing gear,Brake 1 wear pin at limit,major,closed,Sam Okafor,21263
+ML-10229,2026-02-21,N177LK,79,Engine oil,Engine 2 oil filter bypass message,critical,closed,Alex Morgan,46325
+ML-10287,2026-02-22,N198OT,72,Engine,Engine 2 vibration N1 above normal in cruise,major,closed,Sam Okafor,20828
+ML-10394,2026-02-24,N177LK,29,Hydraulic pump,Hyd pump 2 low pressure light on taxi,major,closed,Diego Alvarez,46738
+ML-10166,2026-02-25,N142GT,32,Landing gear,Nose gear steering shimmy on landing roll,major,closed,Alex Morgan,14639
+ML-10264,2026-02-26,N121DK,79,Engine oil,Engine 1 low oil pressure indication,major,closed,Priya Raman,17320
+ML-10307,2026-02-26,N142GT,49,APU,APU auto shutdown on start,minor,closed,Mei Chen,14755
+ML-10239,2026-02-27,N163JE,29,Hydraulic pump,Hyd pump 1 low pressure light on taxi,minor,closed,Sam Okafor,11316
+ML-10301,2026-02-27,N107BE,72,Engine,Engine 2 vibration N1 above normal in cruise,minor,closed,Priya Raman,27951
+ML-10157,2026-03-01,N149HW,79,Engine oil,Engine 1 low oil pressure indication,critical,closed,Lena Fischer,21807
+ML-10310,2026-03-02,N233TK,21,Air conditioning pack,Pack 1 outlet temp high during climb,minor,closed,Diego Alvarez,29664
+ML-10362,2026-03-02,N142GT,36,Pneumatic bleed,Duct overheat light engine 1,major,closed,Alex Morgan,14126
+ML-10145,2026-03-06,N170KH,72,Engine,Engine 2 vibration N1 above normal in cruise,major,closed,Mei Chen,41043
+ML-10231,2026-03-06,N163JE,29,Hydraulic pump,Hyd sys A pressure fluctuating,minor,closed,Diego Alvarez,12635
+ML-10396,2026-03-06,N114CH,72,Engine,Engine 2 vibration N1 above normal in cruise,critical,closed,Diego Alvarez,31415
+ML-10270,2026-03-07,N219RE,29,Hydraulic pump,Hyd sys B pressure fluctuating,major,closed,Mei Chen,39778
+ML-10342,2026-03-08,N107BE,34,Navigation,ADIRU 1 fault message after power-up,minor,closed,Sam Okafor,28089
+ML-10367,2026-03-09,N191NQ,29,Hydraulic pump,Hyd sys B pressure fluctuating,major,closed,Alex Morgan,28903
+ML-10138,2026-03-10,N226SH,34,Navigation,Weather radar intermittent,minor,closed,Priya Raman,22467
+ML-10116,2026-03-12,N149HW,72,Engine,Engine 1 EGT margin trending down,major,closed,Priya Raman,21916
+ML-10047,2026-03-13,N170KH,21,Air conditioning pack,Pack 1 outlet temp high during climb,minor,closed,Mei Chen,40536
+ML-10118,2026-03-13,N191NQ,79,Engine oil,Engine 2 oil filter bypass message,critical,closed,Mei Chen,29034
+ML-10141,2026-03-14,N121DK,21,Air conditioning pack,"Cabin too warm, pack 2 flow low",minor,closed,Priya Raman,18068
+ML-10203,2026-03-14,N114CH,34,Navigation,Weather radar intermittent,major,closed,Mei Chen,31522
+ML-10375,2026-03-14,N191NQ,34,Navigation,ADIRU 2 fault message after power-up,major,closed,Diego Alvarez,27877
+ML-10195,2026-03-16,N121DK,72,Engine,Engine 2 oil consumption high,major,closed,Priya Raman,18990
+ML-10168,2026-03-17,N191NQ,34,Navigation,Weather radar intermittent,minor,closed,Priya Raman,28201
+ML-10180,2026-03-17,N149HW,36,Pneumatic bleed,Duct overheat light engine 1,minor,closed,Diego Alvarez,23395
+ML-10143,2026-03-18,N219RE,72,Engine,Engine 2 oil consumption high,critical,closed,Mei Chen,40742
+ML-10219,2026-03-19,N156IB,34,Navigation,Weather radar intermittent,major,closed,Priya Raman,38551
+ML-10327,2026-03-19,N219RE,21,Air conditioning pack,Pack 2 outlet temp high during climb,major,closed,Priya Raman,40158
+ML-10029,2026-03-20,N219RE,21,Air conditioning pack,"Cabin too warm, pack 2 flow low",major,closed,Lena Fischer,41169
+ML-10137,2026-03-20,N177LK,72,Engine,Engine 2 EGT margin trending down,major,closed,Mei Chen,46780
+ML-10012,2026-03-21,N149HW,79,Engine oil,Engine 2 low oil pressure indication,critical,closed,Priya Raman,22075
+ML-10052,2026-03-21,N205PW,34,Navigation,Weather radar intermittent,minor,closed,Diego Alvarez,8630
+ML-10013,2026-03-23,N135FQ,49,APU,APU EGT high during ground ops,minor,closed,Diego Alvarez,21363
+ML-10064,2026-03-23,N198OT,79,Engine oil,Engine 2 oil filter bypass message,major,closed,Mei Chen,21156
+ML-10227,2026-03-23,N142GT,36,Pneumatic bleed,Bleed trip off engine 1 at high power,major,closed,Alex Morgan,14946
+ML-10091,2026-03-26,N219RE,72,Engine,Engine 1 oil consumption high,major,closed,Diego Alvarez,41305
+ML-10036,2026-03-27,N170KH,49,APU,APU auto shutdown on start,critical,closed,Diego Alvarez,41629
+ML-10196,2026-03-27,N219RE,32,Landing gear,Main gear tire 1 cut found on walkaround,major,closed,Lena Fischer,39830
+ML-10254,2026-03-27,N219RE,72,Engine,Engine 2 vibration N1 above normal in cruise,major,closed,Sam Okafor,39902
+ML-10001,2026-03-28,N156IB,72,Engine,Engine 1 oil consumption high,major,closed,Mei Chen,39280
+ML-10351,2026-03-28,N149HW,79,Engine oil,Engine 1 oil filter bypass message,major,closed,Sam Okafor,23107
+ML-10286,2026-03-29,N212QB,29,Hydraulic pump,Hyd sys A pressure fluctuating,major,closed,Priya Raman,26835
+ML-10121,2026-03-30,N156IB,72,Engine,Engine 2 EGT margin trending down,major,closed,Mei Chen,39286
+ML-10339,2026-03-30,N163JE,49,APU,APU EGT high during ground ops,major,closed,Priya Raman,12469
+ML-10054,2026-03-31,N156IB,34,Navigation,ADIRU 2 fault message after power-up,major,closed,Sam Okafor,37727
+ML-10393,2026-04-01,N226SH,79,Engine oil,Engine 1 low oil pressure indication,minor,closed,Diego Alvarez,23544
+ML-10005,2026-04-02,N177LK,36,Pneumatic bleed,Bleed trip off engine 2 at high power,minor,closed,Diego Alvarez,46391
+ML-10014,2026-04-02,N114CH,34,Navigation,Weather radar intermittent,minor,closed,Mei Chen,31747
+ML-10315,2026-04-02,N170KH,21,Air conditioning pack,"Cabin too warm, pack 2 flow low",major,closed,Mei Chen,40159
+ML-10288,2026-04-03,N212QB,29,Hydraulic pump,Hyd sys A pressure fluctuating,minor,closed,Sam Okafor,27500
+ML-10031,2026-04-04,N198OT,72,Engine,Engine 1 vibration N1 above normal in cruise,critical,closed,Priya Raman,19841
+ML-10043,2026-04-04,N149HW,29,Hydraulic pump,Hyd sys A pressure fluctuating,minor,closed,Lena Fischer,21791
+ML-10133,2026-04-04,N233TK,34,Navigation,ADIRU 2 fault message after power-up,minor,closed,Lena Fischer,30368
+ML-10087,2026-04-05,N170KH,49,APU,APU EGT high during ground ops,major,closed,Diego Alvarez,40580
+ML-10298,2026-04-05,N191NQ,72,Engine,Engine 2 vibration N1 above normal in cruise,major,closed,Sam Okafor,29194
+ML-10358,2026-04-05,N233TK,36,Pneumatic bleed,Bleed trip off engine 1 at high power,minor,closed,Priya Raman,29280
+ML-10025,2026-04-06,N142GT,72,Engine,Engine 2 EGT margin trending down,critical,closed,Mei Chen,14994
+ML-10085,2026-04-06,N212QB,29,Hydraulic pump,Hyd pump 2 low pressure light on taxi,minor,closed,Priya Raman,27764
+ML-10198,2026-04-07,N198OT,32,Landing gear,Brake 2 wear pin at limit,critical,closed,Mei Chen,20985
+ML-10126,2026-04-08,N142GT,79,Engine oil,Engine 1 low oil pressure indication,critical,closed,Priya Raman,14516
+ML-10201,2026-04-11,N198OT,34,Navigation,ADIRU 2 fault message after power-up,minor,closed,Diego Alvarez,19959
+ML-10356,2026-04-11,N156IB,34,Navigation,Weather radar intermittent,minor,closed,Mei Chen,39305
+ML-10176,2026-04-12,N114CH,72,Engine,Engine 2 EGT margin trending down,major,closed,Sam Okafor,31604
+ML-10104,2026-04-13,N142GT,36,Pneumatic bleed,Bleed trip off engine 2 at high power,major,closed,Lena Fischer,14513
+ML-10183,2026-04-13,N212QB,29,Hydraulic pump,Hyd pump 2 low pressure light on taxi,minor,closed,Lena Fischer,27916
+ML-10146,2026-04-14,N212QB,21,Air conditioning pack,"Cabin too warm, pack 1 flow low",minor,closed,Sam Okafor,28270
+ML-10299,2026-04-14,N212QB,36,Pneumatic bleed,Duct overheat light engine 2,major,closed,Mei Chen,28008
+ML-10331,2026-04-15,N123AB,79,Engine oil,Engine 2 oil filter bypass message,major,closed,Alex Morgan,41565
+ML-10321,2026-04-16,N212QB,79,Engine oil,Engine 2 low oil pressure indication,major,closed,Mei Chen,27653
+ML-10233,2026-04-18,N142GT,32,Landing gear,Brake 1 wear pin at limit,minor,closed,Lena Fischer,14355
+ML-10088,2026-04-19,N121DK,34,Navigation,Weather radar intermittent,minor,closed,Sam Okafor,17775
+ML-10144,2026-04-19,N233TK,36,Pneumatic bleed,Duct overheat light engine 2,critical,closed,Alex Morgan,29955
+ML-10053,2026-04-21,N121DK,34,Navigation,Weather radar intermittent,minor,closed,Sam Okafor,18594
+ML-10220,2026-04-21,N170KH,72,Engine,Engine 1 oil consumption high,major,closed,Mei Chen,41262
+ML-10253,2026-04-21,N198OT,36,Pneumatic bleed,Duct overheat light engine 1,major,closed,Alex Morgan,21548
+ML-10114,2026-04-22,N156IB,72,Engine,Engine 1 vibration N1 above normal in cruise,minor,closed,Diego Alvarez,39341
+ML-10048,2026-04-23,N226SH,34,Navigation,ADIRU 1 fault message after power-up,minor,closed,Lena Fischer,24124
+ML-10382,2026-04-23,N156IB,21,Air conditioning pack,"Cabin too warm, pack 2 flow low",major,closed,Sam Okafor,39342
+ML-10241,2026-04-28,N149HW,79,Engine oil,Engine 2 oil filter bypass message,major,closed,Priya Raman,22730
+ML-10268,2026-04-28,N219RE,34,Navigation,ADIRU 1 fault message after power-up,minor,closed,Sam Okafor,41496
+ML-10291,2026-04-28,N121DK,29,Hydraulic pump,Hyd sys A pressure fluctuating,minor,closed,Lena Fischer,17745
+ML-10156,2026-04-29,N226SH,21,Air conditioning pack,"Cabin too warm, pack 2 flow low",major,closed,Diego Alvarez,24029
+ML-10035,2026-04-30,N156IB,21,Air conditioning pack,"Cabin too warm, pack 2 flow low",minor,closed,Alex Morgan,38582
+ML-10263,2026-04-30,N107BE,79,Engine oil,Engine 2 oil filter bypass message,major,closed,Lena Fischer,29448
+ML-10199,2026-05-01,N156IB,49,APU,APU EGT high during ground ops,major,closed,Lena Fischer,38339
+ML-10258,2026-05-02,N121DK,21,Air conditioning pack,"Cabin too warm, pack 2 flow low",major,closed,Diego Alvarez,17300
+ML-10204,2026-05-03,N142GT,32,Landing gear,Nose gear steering shimmy on landing roll,minor,closed,Mei Chen,13943
+ML-10240,2026-05-03,N123AB,36,Pneumatic bleed,Duct overheat light engine 1,major,closed,Sam Okafor,40581
+ML-10322,2026-05-04,N107BE,79,Engine oil,Engine 1 low oil pressure indication,critical,closed,Alex Morgan,29006
+ML-10381,2026-05-05,N163JE,29,Hydraulic pump,Hyd sys B pressure fluctuating,major,closed,Priya Raman,12489
+ML-10226,2026-05-06,N149HW,34,Navigation,Weather radar intermittent,major,closed,Alex Morgan,21979
+ML-10371,2026-05-06,N107BE,36,Pneumatic bleed,Duct overheat light engine 2,major,closed,Mei Chen,29267
+ML-10281,2026-05-09,N198OT,49,APU,APU EGT high during ground ops,major,closed,Priya Raman,20072
+ML-10347,2026-05-10,N114CH,21,Air conditioning pack,"Cabin too warm, pack 1 flow low",major,closed,Mei Chen,30634
+ML-10098,2026-05-11,N142GT,21,Air conditioning pack,"Cabin too warm, pack 2 flow low",minor,closed,Lena Fischer,15274
+ML-10021,2026-05-12,N233TK,32,Landing gear,Nose gear steering shimmy on landing roll,minor,closed,Diego Alvarez,28939
+ML-10010,2026-05-14,N226SH,29,Hydraulic pump,Hyd sys A pressure fluctuating,major,closed,Priya Raman,23724
+ML-10357,2026-05-14,N156IB,29,Hydraulic pump,Hyd pump 2 low pressure light on taxi,minor,closed,Alex Morgan,38041
+ML-10175,2026-05-15,N184MN,29,Hydraulic pump,Hyd pump 1 low pressure light on taxi,minor,closed,Lena Fischer,17912
+ML-10330,2026-05-15,N226SH,36,Pneumatic bleed,Bleed trip off engine 1 at high power,major,closed,Priya Raman,23924
+ML-10124,2026-05-16,N149HW,29,Hydraulic pump,Hyd pump 1 low pressure light on taxi,major,closed,Lena Fischer,22946
+ML-10383,2026-05-17,N156IB,21,Air conditioning pack,Pack 1 outlet temp high during climb,minor,closed,Sam Okafor,37939
+ML-10069,2026-05-18,N198OT,72,Engine,Engine 1 EGT margin trending down,major,closed,Alex Morgan,21181
+ML-10080,2026-05-18,N205PW,29,Hydraulic pump,Hyd sys B pressure fluctuating,major,closed,Priya Raman,8313
+ML-10186,2026-05-18,N135FQ,32,Landing gear,Main gear tire 1 cut found on walkaround,minor,closed,Diego Alvarez,22864
+ML-10009,2026-05-19,N114CH,21,Air conditioning pack,"Cabin too warm, pack 2 flow low",minor,closed,Lena Fischer,31098
+ML-10212,2026-05-19,N114CH,79,Engine oil,Engine 1 low oil pressure indication,major,closed,Priya Raman,31998
+ML-10112,2026-05-20,N233TK,34,Navigation,Weather radar intermittent,critical,closed,Priya Raman,29768
+ML-10255,2026-05-20,N107BE,21,Air conditioning pack,"Cabin too warm, pack 2 flow low",major,closed,Mei Chen,29248
+ML-10163,2026-05-21,N123AB,36,Pneumatic bleed,Duct overheat light engine 2,minor,closed,Diego Alvarez,41093
+ML-10188,2026-05-22,N142GT,49,APU,APU EGT high during ground ops,critical,closed,Mei Chen,14890
+ML-10129,2026-05-23,N177LK,72,Engine,Engine 1 EGT margin trending down,critical,closed,Mei Chen,45915
+ML-10280,2026-05-23,N123AB,34,Navigation,ADIRU 2 fault message after power-up,minor,closed,Sam Okafor,40203
+ML-10377,2026-05-23,N219RE,32,Landing gear,Brake 1 wear pin at limit,major,closed,Alex Morgan,41080
+ML-10278,2026-05-24,N135FQ,79,Engine oil,Engine 1 low oil pressure indication,major,closed,Lena Fischer,23035
+ML-10019,2026-05-25,N135FQ,21,Air conditioning pack,Pack 2 outlet temp high during climb,major,closed,Alex Morgan,23003
+ML-10167,2026-05-25,N163JE,32,Landing gear,Brake 1 wear pin at limit,critical,closed,Priya Raman,11743
+ML-10179,2026-05-25,N149HW,29,Hydraulic pump,Hyd sys A pressure fluctuating,critical,closed,Alex Morgan,23305
+ML-10252,2026-05-25,N114CH,21,Air conditioning pack,Pack 2 outlet temp high during climb,minor,closed,Mei Chen,30136
+ML-10289,2026-05-25,N212QB,49,APU,APU auto shutdown on start,major,closed,Mei Chen,27105
+ML-10136,2026-05-27,N121DK,21,Air conditioning pack,Pack 2 outlet temp high during climb,minor,closed,Diego Alvarez,18386
+ML-10100,2026-05-28,N121DK,34,Navigation,Weather radar intermittent,minor,closed,Priya Raman,18761
+ML-10090,2026-05-29,N128EN,32,Landing gear,Nose gear steering shimmy on landing roll,minor,closed,Alex Morgan,21472
+ML-10363,2026-05-29,N121DK,36,Pneumatic bleed,Duct overheat light engine 2,major,closed,Lena Fischer,18294
+ML-10318,2026-05-31,N156IB,21,Air conditioning pack,"Cabin too warm, pack 1 flow low",minor,closed,Mei Chen,38394
+ML-10350,2026-05-31,N121DK,29,Hydraulic pump,Hyd sys B pressure fluctuating,major,closed,Diego Alvarez,17549
+ML-10033,2026-06-01,N123AB,49,APU,APU EGT high during ground ops,major,closed,Sam Okafor,40685
+ML-10046,2026-06-01,N212QB,34,Navigation,Weather radar intermittent,major,closed,Sam Okafor,26898
+ML-10089,2026-06-01,N177LK,79,Engine oil,Engine 2 low oil pressure indication,major,closed,Priya Raman,45665
+ML-10390,2026-06-01,N198OT,79,Engine oil,Engine 1 oil filter bypass message,minor,closed,Mei Chen,20937
+ML-10051,2026-06-04,N198OT,29,Hydraulic pump,Hyd pump 2 low pressure light on taxi,critical,closed,Lena Fischer,20859
+ML-10345,2026-06-04,N233TK,49,APU,APU auto shutdown on start,minor,closed,Mei Chen,28748
+ML-10277,2026-06-05,N212QB,21,Air conditioning pack,"Cabin too warm, pack 1 flow low",minor,closed,Lena Fischer,27727
+ML-10061,2026-06-06,N123AB,36,Pneumatic bleed,Bleed trip off engine 1 at high power,major,closed,Lena Fischer,40249
+ML-10335,2026-06-06,N156IB,79,Engine oil,Engine 2 low oil pressure indication,critical,closed,Diego Alvarez,38665
+ML-10378,2026-06-06,N170KH,32,Landing gear,Brake 2 wear pin at limit,major,closed,Alex Morgan,40786
+ML-10353,2026-06-08,N156IB,79,Engine oil,Engine 1 low oil pressure indication,critical,closed,Priya Raman,38953
+ML-10328,2026-06-09,N198OT,79,Engine oil,Engine 1 low oil pressure indication,critical,closed,Sam Okafor,21293
+ML-10055,2026-06-10,N219RE,34,Navigation,Weather radar intermittent,major,closed,Diego Alvarez,40345
+ML-10178,2026-06-10,N135FQ,34,Navigation,ADIRU 2 fault message after power-up,minor,closed,Diego Alvarez,22905
+ML-10250,2026-06-10,N156IB,72,Engine,Engine 1 vibration N1 above normal in cruise,critical,closed,Alex Morgan,37632
+ML-10102,2026-06-11,N184MN,21,Air conditioning pack,"Cabin too warm, pack 1 flow low",minor,closed,Lena Fischer,17644
+ML-10218,2026-06-11,N107BE,72,Engine,Engine 2 vibration N1 above normal in cruise,critical,closed,Alex Morgan,29389
+ML-10343,2026-06-13,N205PW,29,Hydraulic pump,Hyd pump 2 low pressure light on taxi,major,closed,Lena Fischer,8640
+ML-10170,2026-06-15,N156IB,29,Hydraulic pump,Hyd pump 1 low pressure light on taxi,minor,closed,Sam Okafor,37868
+ML-10210,2026-06-15,N177LK,29,Hydraulic pump,Hyd sys B pressure fluctuating,major,closed,Priya Raman,45892
+ML-10370,2026-06-15,N121DK,79,Engine oil,Engine 2 low oil pressure indication,minor,closed,Alex Morgan,17549
+ML-10022,2026-06-16,N123AB,79,Engine oil,Engine 1 oil filter bypass message,minor,closed,Mei Chen,40503
+ML-10113,2026-06-16,N107BE,72,Engine,Engine 1 EGT margin trending down,critical,closed,Priya Raman,27725
+ML-10153,2026-06-16,N212QB,32,Landing gear,Nose gear steering shimmy on landing roll,minor,closed,Sam Okafor,27245
+ML-10244,2026-06-18,N233TK,34,Navigation,Weather radar intermittent,major,closed,Mei Chen,30077
+ML-10355,2026-06-18,N123AB,32,Landing gear,Nose gear steering shimmy on landing roll,major,closed,Mei Chen,40574
+ML-10004,2026-06-19,N156IB,49,APU,APU EGT high during ground ops,major,closed,Mei Chen,38290
+ML-10249,2026-06-19,N219RE,79,Engine oil,Engine 1 oil filter bypass message,major,closed,Sam Okafor,41329
+ML-10325,2026-06-19,N163JE,29,Hydraulic pump,Hyd pump 2 low pressure light on taxi,major,closed,Diego Alvarez,12938
+ML-10003,2026-06-20,N135FQ,72,Engine,Engine 1 EGT margin trending down,minor,closed,Priya Raman,22939
+ML-10296,2026-06-20,N163JE,34,Navigation,ADIRU 1 fault message after power-up,minor,closed,Mei Chen,11375
+ML-10086,2026-06-21,N163JE,34,Navigation,ADIRU 1 fault message after power-up,minor,closed,Mei Chen,11644
+ML-10305,2026-06-21,N212QB,29,Hydraulic pump,Hyd pump 1 low pressure light on taxi,critical,closed,Lena Fischer,28523
+ML-10018,2026-06-24,N205PW,29,Hydraulic pump,Hyd sys B pressure fluctuating,major,closed,Mei Chen,8404
+ML-10334,2026-06-24,N123AB,29,Hydraulic pump,Hyd pump 2 low pressure light on taxi,major,closed,Alex Morgan,40586
+ML-10119,2026-06-27,N205PW,72,Engine,Engine 1 oil consumption high,major,closed,Alex Morgan,9036
+ML-10151,2026-06-28,N121DK,32,Landing gear,Main gear tire 1 cut found on walkaround,minor,closed,Diego Alvarez,17921
+ML-10152,2026-06-28,N233TK,72,Engine,Engine 1 vibration N1 above normal in cruise,major,closed,Lena Fischer,28844
+ML-10251,2026-06-28,N205PW,72,Engine,Engine 1 oil consumption high,critical,closed,Mei Chen,8837
+ML-10384,2026-06-28,N123AB,34,Navigation,Weather radar intermittent,minor,closed,Mei Chen,40817
+ML-10245,2026-06-29,N170KH,72,Engine,Engine 2 oil consumption high,major,closed,Lena Fischer,41573
+ML-10093,2026-06-30,N156IB,32,Landing gear,Main gear tire 1 cut found on walkaround,minor,closed,Mei Chen,38830
+ML-10360,2026-07-01,N123AB,72,Engine,Engine 1 vibration N1 above normal in cruise,major,closed,Sam Okafor,40962
+ML-10162,2026-07-02,N184MN,34,Navigation,Weather radar intermittent,minor,closed,Diego Alvarez,18514
+ML-10181,2026-07-02,N121DK,79,Engine oil,Engine 1 low oil pressure indication,major,closed,Lena Fischer,18448
+ML-10340,2026-07-03,N142GT,36,Pneumatic bleed,Bleed trip off engine 2 at high power,major,closed,Lena Fischer,15305
+ML-10060,2026-07-04,N198OT,36,Pneumatic bleed,Bleed trip off engine 1 at high power,minor,closed,Alex Morgan,20655
+ML-10256,2026-07-05,N184MN,49,APU,APU auto shutdown on start,minor,closed,Mei Chen,18409
+ML-10056,2026-07-09,N128EN,72,Engine,Engine 2 EGT margin trending down,major,closed,Priya Raman,20147
+ML-10084,2026-07-10,N184MN,34,Navigation,Weather radar intermittent,minor,closed,Alex Morgan,18515
+ML-10185,2026-07-11,N128EN,79,Engine oil,Engine 1 oil filter bypass message,minor,closed,Mei Chen,19630
+ML-10279,2026-07-11,N198OT,36,Pneumatic bleed,Bleed trip off engine 1 at high power,minor,closed,Mei Chen,19822
+ML-10095,2026-07-12,N114CH,49,APU,APU EGT high during ground ops,minor,closed,Sam Okafor,31682
+ML-10308,2026-07-12,N156IB,34,Navigation,Weather radar intermittent,major,closed,Alex Morgan,37594
+ML-10349,2026-07-12,N156IB,49,APU,APU auto shutdown on start,minor,closed,Priya Raman,38040
+ML-10365,2026-07-13,N149HW,21,Air conditioning pack,Pack 1 outlet temp high during climb,major,closed,Mei Chen,22079
+ML-10101,2026-07-14,N212QB,72,Engine,Engine 2 oil consumption high,major,closed,Sam Okafor,27075
+ML-10275,2026-07-15,N156IB,29,Hydraulic pump,Hyd pump 1 low pressure light on taxi,major,closed,Alex Morgan,38690
+ML-10127,2026-07-16,N233TK,49,APU,APU auto shutdown on start,minor,closed,Lena Fischer,30109
+ML-10242,2026-07-17,N233TK,36,Pneumatic bleed,Bleed trip off engine 1 at high power,major,closed,Diego Alvarez,29950
+ML-10324,2026-07-17,N128EN,32,Landing gear,Brake 2 wear pin at limit,major,closed,Lena Fischer,21568
+ML-10007,2026-07-18,N219RE,32,Landing gear,Main gear tire 1 cut found on walkaround,major,closed,Mei Chen,40083
+ML-10282,2026-07-18,N205PW,49,APU,APU auto shutdown on start,major,closed,Lena Fischer,7664
+ML-10209,2026-07-19,N128EN,32,Landing gear,Nose gear steering shimmy on landing roll,minor,closed,Sam Okafor,19951
+ML-10117,2026-07-23,N156IB,21,Air conditioning pack,"Cabin too warm, pack 2 flow low",minor,closed,Sam Okafor,38757
+ML-10341,2026-07-24,N142GT,49,APU,APU EGT high during ground ops,minor,closed,Sam Okafor,14682
+ML-10068,2026-07-25,N114CH,21,Air conditioning pack,Pack 2 outlet temp high during climb,minor,closed,Alex Morgan,31192
+ML-10380,2026-07-26,N135FQ,29,Hydraulic pump,Hyd sys A pressure fluctuating,minor,closed,Mei Chen,22595
+ML-10134,2026-07-29,N184MN,34,Navigation,Weather radar intermittent,minor,closed,Lena Fischer,18728
+ML-10000,2026-07-30,N226SH,34,Navigation,ADIRU 2 fault message after power-up,minor,closed,Sam Okafor,22663
+ML-10107,2026-07-30,N177LK,21,Air conditioning pack,Pack 1 outlet temp high during climb,major,closed,Sam Okafor,45301
+ML-10122,2026-07-30,N114CH,36,Pneumatic bleed,Bleed trip off engine 2 at high power,major,closed,Alex Morgan,31316
+ML-10197,2026-07-30,N198OT,29,Hydraulic pump,Hyd pump 2 low pressure light on taxi,critical,closed,Mei Chen,20564
+ML-10079,2026-08-01,N123AB,21,Air conditioning pack,Pack 2 outlet temp high during climb,minor,closed,Diego Alvarez,41664
+ML-10265,2026-08-01,N121DK,21,Air conditioning pack,"Cabin too warm, pack 2 flow low",major,closed,Alex Morgan,17297
+ML-10139,2026-08-02,N163JE,21,Air conditioning pack,Pack 1 outlet temp high during climb,minor,closed,Mei Chen,12954
+ML-10034,2026-08-03,N156IB,29,Hydraulic pump,Hyd pump 2 low pressure light on taxi,major,closed,Sam Okafor,39297
+ML-10015,2026-08-04,N163JE,72,Engine,Engine 2 vibration N1 above normal in cruise,major,closed,Priya Raman,11794
+ML-10395,2026-08-04,N170KH,32,Landing gear,Nose gear steering shimmy on landing roll,major,closed,Mei Chen,40956
+ML-10023,2026-08-07,N114CH,32,Landing gear,Brake 2 wear pin at limit,major,closed,Priya Raman,31885
+ML-10372,2026-08-07,N191NQ,49,APU,APU EGT high during ground ops,major,closed,Mei Chen,28786
+ML-10159,2026-08-08,N156IB,36,Pneumatic bleed,Bleed trip off engine 2 at high power,major,closed,Lena Fischer,38420
+ML-10158,2026-08-09,N128EN,29,Hydraulic pump,Hyd sys B pressure fluctuating,critical,closed,Mei Chen,20858
+ML-10172,2026-08-09,N114CH,72,Engine,Engine 2 EGT margin trending down,major,closed,Lena Fischer,31358
+ML-10224,2026-08-09,N163JE,49,APU,APU EGT high during ground ops,major,closed,Sam Okafor,11947
+ML-10147,2026-08-10,N191NQ,49,APU,APU EGT high during ground ops,minor,closed,Alex Morgan,27950
+ML-10191,2026-08-10,N149HW,79,Engine oil,Engine 1 oil filter bypass message,major,closed,Lena Fischer,22509
+ML-10284,2026-08-12,N163JE,34,Navigation,Weather radar intermittent,minor,closed,Diego Alvarez,12651
+ML-10027,2026-08-13,N233TK,79,Engine oil,Engine 2 low oil pressure indication,critical,closed,Priya Raman,28805
+ML-10214,2026-08-13,N226SH,34,Navigation,ADIRU 1 fault message after power-up,major,closed,Priya Raman,23345
+ML-10125,2026-08-14,N156IB,34,Navigation,Weather radar intermittent,minor,closed,Lena Fischer,38990
+ML-10184,2026-08-14,N107BE,72,Engine,Engine 2 EGT margin trending down,critical,closed,Sam Okafor,29151
+ML-10154,2026-08-16,N170KH,49,APU,APU EGT high during ground ops,critical,closed,Alex Morgan,40840
+ML-10108,2026-08-17,N212QB,36,Pneumatic bleed,Duct overheat light engine 1,critical,closed,Mei Chen,27159
+ML-10293,2026-08-17,N219RE,32,Landing gear,Main gear tire 1 cut found on walkaround,critical,closed,Diego Alvarez,40655
+ML-10338,2026-08-18,N184MN,72,Engine,Engine 1 oil consumption high,major,closed,Sam Okafor,18899
+ML-10386,2026-08-18,N142GT,21,Air conditioning pack,"Cabin too warm, pack 2 flow low",minor,closed,Sam Okafor,14000
+ML-10028,2026-08-20,N114CH,36,Pneumatic bleed,Bleed trip off engine 1 at high power,major,closed,Diego Alvarez,31353
+ML-10094,2026-08-20,N170KH,79,Engine oil,Engine 2 low oil pressure indication,major,closed,Sam Okafor,40303
+ML-10173,2026-08-20,N212QB,34,Navigation,ADIRU 2 fault message after power-up,minor,closed,Mei Chen,26717
+ML-10304,2026-08-20,N191NQ,32,Landing gear,Main gear tire 2 cut found on walkaround,minor,closed,Sam Okafor,28060
+ML-10063,2026-08-21,N163JE,49,APU,APU EGT high during ground ops,major,closed,Sam Okafor,12381
+ML-10115,2026-08-21,N226SH,49,APU,APU EGT high during ground ops,major,closed,Sam Okafor,22849
+ML-10206,2026-08-21,N114CH,72,Engine,Engine 1 vibration N1 above normal in cruise,minor,closed,Alex Morgan,31320
+ML-10050,2026-08-22,N128EN,79,Engine oil,Engine 2 low oil pressure indication,major,closed,Mei Chen,20059
+ML-10066,2026-08-23,N121DK,36,Pneumatic bleed,Duct overheat light engine 2,major,closed,Alex Morgan,18496
+ML-10002,2026-08-25,N212QB,29,Hydraulic pump,Hyd pump 1 low pressure light on taxi,major,closed,Diego Alvarez,27190
+ML-10130,2026-08-25,N135FQ,72,Engine,Engine 2 oil consumption high,minor,closed,Priya Raman,22044
+ML-10213,2026-08-25,N149HW,49,APU,APU EGT high during ground ops,major,closed,Lena Fischer,21990
+ML-10297,2026-08-26,N233TK,21,Air conditioning pack,"Cabin too warm, pack 1 flow low",major,closed,Sam Okafor,28602
+ML-10059,2026-08-27,N156IB,36,Pneumatic bleed,Bleed trip off engine 2 at high power,critical,closed,Alex Morgan,39053
+ML-10155,2026-08-27,N226SH,36,Pneumatic bleed,Duct overheat light engine 1,major,closed,Diego Alvarez,23512
+ML-10320,2026-08-27,N135FQ,36,Pneumatic bleed,Duct overheat light engine 1,critical,closed,Alex Morgan,21725
+ML-10074,2026-08-29,N121DK,21,Air conditioning pack,"Cabin too warm, pack 2 flow low",minor,closed,Priya Raman,17550
+ML-10237,2026-08-30,N163JE,79,Engine oil,Engine 2 low oil pressure indication,minor,closed,Sam Okafor,11091
+ML-10306,2026-08-31,N128EN,29,Hydraulic pump,Hyd pump 2 low pressure light on taxi,minor,closed,Alex Morgan,20826
+ML-10283,2026-09-01,N198OT,32,Landing gear,Nose gear steering shimmy on landing roll,major,closed,Alex Morgan,20311
+ML-10008,2026-09-02,N233TK,49,APU,APU auto shutdown on start,minor,closed,Diego Alvarez,30546
+ML-10217,2026-09-04,N107BE,21,Air conditioning pack,Pack 2 outlet temp high during climb,minor,closed,Alex Morgan,29281
+ML-10290,2026-09-04,N114CH,72,Engine,Engine 1 vibration N1 above normal in cruise,major,closed,Diego Alvarez,31379
+ML-10317,2026-09-04,N121DK,36,Pneumatic bleed,Duct overheat light engine 2,major,closed,Mei Chen,18673
+ML-10039,2026-09-06,N212QB,21,Air conditioning pack,"Cabin too warm, pack 1 flow low",major,closed,Diego Alvarez,28135
+ML-10262,2026-09-08,N226SH,21,Air conditioning pack,Pack 1 outlet temp high during climb,minor,closed,Sam Okafor,23258
+ML-10337,2026-09-10,N156IB,29,Hydraulic pump,Hyd pump 1 low pressure light on taxi,major,closed,Lena Fischer,38187
+ML-10189,2026-09-11,N177LK,29,Hydraulic pump,Hyd sys B pressure fluctuating,minor,closed,Lena Fischer,46365
+ML-10103,2026-09-13,N142GT,34,Navigation,Weather radar intermittent,minor,closed,Diego Alvarez,13756
+ML-10235,2026-09-13,N163JE,36,Pneumatic bleed,Bleed trip off engine 1 at high power,major,closed,Alex Morgan,11409
+ML-10314,2026-09-13,N121DK,29,Hydraulic pump,Hyd sys B pressure fluctuating,critical,closed,Alex Morgan,18793
+ML-10006,2026-09-14,N233TK,29,Hydraulic pump,Hyd sys B pressure fluctuating,minor,closed,Sam Okafor,30475
+ML-10142,2026-09-14,N191NQ,72,Engine,Engine 1 EGT margin trending down,major,closed,Diego Alvarez,29405
+ML-10200,2026-09-14,N149HW,34,Navigation,ADIRU 2 fault message after power-up,minor,closed,Lena Fischer,22543
+ML-10392,2026-09-14,N121DK,34,Navigation,ADIRU 1 fault message after power-up,minor,closed,Priya Raman,18187
+ML-10057,2026-09-16,N123AB,29,Hydraulic pump,Hyd pump 2 low pressure light on taxi,minor,closed,Mei Chen,41657
+ML-10160,2026-09-17,N156IB,21,Air conditioning pack,"Cabin too warm, pack 2 flow low",major,open,Alex Morgan,39151
+ML-10273,2026-09-17,N170KH,72,Engine,Engine 2 oil consumption high,critical,open,Alex Morgan,41497
+ML-10040,2026-09-18,N142GT,36,Pneumatic bleed,Duct overheat light engine 2,major,open,Alex Morgan,14827
+ML-10041,2026-09-18,N226SH,34,Navigation,ADIRU 2 fault message after power-up,minor,open,Priya Raman,23854
+ML-10109,2026-09-18,N135FQ,79,Engine oil,Engine 2 oil filter bypass message,minor,closed,Sam Okafor,22288
+ML-10259,2026-09-19,N128EN,21,Air conditioning pack,"Cabin too warm, pack 2 flow low",major,open,Alex Morgan,20754
+ML-10128,2026-09-20,N135FQ,32,Landing gear,Brake 1 wear pin at limit,minor,closed,Priya Raman,21585
+ML-20000,2026-09-20,N123AB,72,Engine,Engine 2 vibration N1 above normal in cruise,major,closed,Alex Morgan,41787
+ML-10215,2026-09-21,N128EN,79,Engine oil,Engine 1 low oil pressure indication,minor,open,Priya Raman,20549
+ML-10361,2026-09-25,N149HW,21,Air conditioning pack,Pack 2 outlet temp high during climb,minor,open,Mei Chen,21825
+ML-10285,2026-09-26,N149HW,49,APU,APU auto shutdown on start,minor,open,Alex Morgan,21720
+ML-10072,2026-09-27,N114CH,49,APU,APU EGT high during ground ops,minor,open,Diego Alvarez,31814
+ML-10150,2026-09-27,N177LK,36,Pneumatic bleed,Bleed trip off engine 1 at high power,critical,closed,Alex Morgan,46021
+ML-10192,2026-09-30,N114CH,49,APU,APU EGT high during ground ops,minor,closed,Diego Alvarez,31416
+ML-10311,2026-09-30,N128EN,32,Landing gear,Brake 2 wear pin at limit,major,open,Mei Chen,21068
+ML-10073,2026-10-01,N219RE,72,Engine,Engine 1 oil consumption high,major,open,Alex Morgan,41640
+ML-10272,2026-10-01,N114CH,29,Hydraulic pump,Hyd sys A pressure fluctuating,major,closed,Sam Okafor,31697
+ML-10319,2026-10-01,N219RE,34,Navigation,Weather radar intermittent,minor,closed,Priya Raman,40295
+ML-20001,2026-10-02,N123AB,72,Engine,Engine 2 EGT margin trending down,major,closed,Priya Raman,41807
+ML-10105,2026-10-03,N170KH,21,Air conditioning pack,Pack 1 outlet temp high during climb,major,open,Alex Morgan,41001
+ML-10187,2026-10-04,N205PW,49,APU,APU auto shutdown on start,minor,closed,Sam Okafor,8663
+ML-10332,2026-10-04,N135FQ,79,Engine oil,Engine 2 low oil pressure indication,major,open,Priya Raman,22745
+ML-10049,2026-10-05,N107BE,72,Engine,Engine 1 vibration N1 above normal in cruise,minor,closed,Sam Okafor,27769
+ML-10246,2026-10-05,N191NQ,79,Engine oil,Engine 1 oil filter bypass message,major,open,Mei Chen,29653
+ML-10309,2026-10-05,N121DK,34,Navigation,Weather radar intermittent,minor,closed,Alex Morgan,17739
+ML-10368,2026-10-05,N107BE,29,Hydraulic pump,Hyd sys B pressure fluctuating,minor,closed,Mei Chen,29539
+ML-10075,2026-10-06,N128EN,21,Air conditioning pack,"Cabin too warm, pack 2 flow low",major,closed,Sam Okafor,19941
+ML-10106,2026-10-06,N142GT,29,Hydraulic pump,Hyd sys B pressure fluctuating,major,open,Alex Morgan,14379
+ML-10234,2026-10-06,N156IB,29,Hydraulic pump,Hyd pump 2 low pressure light on taxi,minor,open,Alex Morgan,39329
+ML-10344,2026-10-06,N170KH,34,Navigation,ADIRU 2 fault message after power-up,minor,closed,Mei Chen,40475
+ML-10038,2026-10-07,N123AB,79,Engine oil,Engine 2 low oil pressure indication,critical,open,Mei Chen,40278
+ML-10062,2026-10-07,N170KH,34,Navigation,ADIRU 2 fault message after power-up,minor,open,Sam Okafor,41503
+ML-10269,2026-10-07,N177LK,72,Engine,Engine 1 oil consumption high,major,open,Priya Raman,46949
+ML-10026,2026-10-08,N184MN,36,Pneumatic bleed,Duct overheat light engine 1,minor,open,Priya Raman,18462
+ML-10058,2026-10-08,N184MN,49,APU,APU EGT high during ground ops,minor,closed,Priya Raman,17731
+ML-10065,2026-10-08,N142GT,29,Hydraulic pump,Hyd pump 1 low pressure light on taxi,major,open,Alex Morgan,14116
+ML-10020,2026-10-09,N135FQ,34,Navigation,Weather radar intermittent,minor,open,Sam Okafor,22635
+ML-10316,2026-10-09,N184MN,29,Hydraulic pump,Hyd sys A pressure fluctuating,major,open,Alex Morgan,17579
+ML-10398,2026-10-09,N142GT,29,Hydraulic pump,Hyd sys B pressure fluctuating,major,closed,Diego Alvarez,14148
+ML-10177,2026-10-10,N142GT,29,Hydraulic pump,Hyd sys A pressure fluctuating,critical,closed,Priya Raman,14540
+ML-10374,2026-10-10,N149HW,29,Hydraulic pump,Hyd pump 1 low pressure light on taxi,major,open,Lena Fischer,21913
+ML-10081,2026-10-11,N219RE,36,Pneumatic bleed,Bleed trip off engine 1 at high power,major,closed,Mei Chen,40251
+ML-10274,2026-10-11,N163JE,29,Hydraulic pump,Hyd sys B pressure fluctuating,major,closed,Alex Morgan,11968
+ML-10312,2026-10-11,N114CH,32,Landing gear,Brake 1 wear pin at limit,major,open,Diego Alvarez,30407
+ML-10067,2026-10-13,N191NQ,79,Engine oil,Engine 2 low oil pressure indication,minor,closed,Lena Fischer,28456
+ML-10131,2026-10-14,N142GT,21,Air conditioning pack,Pack 2 outlet temp high during climb,minor,open,Alex Morgan,15504
+ML-20002,2026-10-14,N123AB,72,Engine,"Engine 2 vibration N1 above normal, recurring",major,open,Diego Alvarez,41827
+ML-10329,2026-10-15,N205PW,29,Hydraulic pump,Hyd sys A pressure fluctuating,major,closed,Diego Alvarez,8098
+ML-10346,2026-10-16,N142GT,34,Navigation,Weather radar intermittent,minor,open,Diego Alvarez,15142
+ML-10303,2026-10-17,N156IB,29,Hydraulic pump,Hyd pump 1 low pressure light on taxi,minor,open,Lena Fischer,38694
+ML-10110,2026-10-18,N184MN,36,Pneumatic bleed,Duct overheat light engine 2,critical,open,Sam Okafor,17865
+ML-10373,2026-10-18,N198OT,36,Pneumatic bleed,Duct overheat light engine 1,major,open,Lena Fischer,21435
+ML-10238,2026-10-19,N142GT,34,Navigation,Weather radar intermittent,minor,open,Sam Okafor,14406
+ML-10267,2026-10-19,N149HW,36,Pneumatic bleed,Duct overheat light engine 2,major,open,Diego Alvarez,22720
+ML-10391,2026-10-19,N123AB,79,Engine oil,Engine 2 oil filter bypass message,major,closed,Sam Okafor,40128
+ML-10223,2026-10-20,N226SH,34,Navigation,ADIRU 2 fault message after power-up,major,open,Mei Chen,23886
+ML-10161,2026-10-21,N156IB,49,APU,APU auto shutdown on start,minor,closed,Lena Fischer,37784
+ML-10202,2026-10-21,N233TK,79,Engine oil,Engine 2 low oil pressure indication,critical,closed,Priya Raman,29066
+ML-10323,2026-10-21,N170KH,72,Engine,Engine 1 EGT margin trending down,critical,open,Priya Raman,40138
+ML-10389,2026-10-21,N170KH,32,Landing gear,Brake 1 wear pin at limit,major,open,Priya Raman,41575
+ML-10078,2026-10-22,N123AB,32,Landing gear,Brake 2 wear pin at limit,major,open,Alex Morgan,40615
+ML-10387,2026-10-22,N170KH,49,APU,APU auto shutdown on start,minor,open,Lena Fischer,40585
+ML-10169,2026-10-23,N142GT,79,Engine oil,Engine 2 oil filter bypass message,critical,closed,Mei Chen,15432
+ML-10354,2026-10-23,N226SH,34,Navigation,ADIRU 2 fault message after power-up,major,closed,Lena Fischer,23789
+ML-10182,2026-10-24,N170KH,36,Pneumatic bleed,Duct overheat light engine 1,critical,closed,Diego Alvarez,40741
+ML-10376,2026-10-24,N114CH,32,Landing gear,Brake 2 wear pin at limit,minor,open,Sam Okafor,30752
+ML-10388,2026-10-24,N170KH,29,Hydraulic pump,Hyd pump 1 low pressure light on taxi,minor,open,Alex Morgan,39993
+ML-10097,2026-10-25,N233TK,36,Pneumatic bleed,Bleed trip off engine 2 at high power,minor,open,Lena Fischer,29806
+ML-10190,2026-10-25,N135FQ,79,Engine oil,Engine 2 oil filter bypass message,major,closed,Priya Raman,22564
+ML-10222,2026-10-25,N123AB,72,Engine,Engine 1 vibration N1 above normal in cruise,minor,closed,Priya Raman,40950
+ML-10352,2026-10-25,N184MN,36,Pneumatic bleed,Duct overheat light engine 2,major,closed,Sam Okafor,17613
+ML-10260,2026-10-26,N149HW,21,Air conditioning pack,Pack 2 outlet temp high during climb,critical,open,Priya Raman,22221
+ML-10211,2026-10-27,N205PW,49,APU,APU auto shutdown on start,major,open,Sam Okafor,8130
+ML-10294,2026-10-27,N184MN,49,APU,APU auto shutdown on start,major,closed,Sam Okafor,17515

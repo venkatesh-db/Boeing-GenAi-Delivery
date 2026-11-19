@@ -1,0 +1,41 @@
+tail_number,ad_number,ata_chapter,subject,status,complied_date
+N123AB,AD 2026-TR-0101,72,CFM56-7B fan blade inspection,open,
+N123AB,AD 2026-TR-0105,79,Engine oil pressure transmitter replacement,complied,2026-06-21
+N107BE,AD 2026-TR-0102,36,Bleed air duct clamp replacement,open,
+N107BE,AD 2026-TR-0105,79,Engine oil pressure transmitter replacement,complied,2026-03-14
+N114CH,AD 2026-TR-0103,29,Hydraulic pump case drain filter inspection,complied,2026-01-12
+N114CH,AD 2026-TR-0105,79,Engine oil pressure transmitter replacement,complied,2026-04-04
+N121DK,AD 2026-TR-0104,32,Main landing gear axle inspection,complied,2026-03-18
+N121DK,AD 2026-TR-0105,79,Engine oil pressure transmitter replacement,complied,2026-03-18
+N128EN,AD 2026-TR-0101,72,CFM56-7B fan blade inspection,complied,2026-02-24
+N128EN,AD 2026-TR-0105,79,Engine oil pressure transmitter replacement,complied,2026-10-02
+N135FQ,AD 2026-TR-0102,36,Bleed air duct clamp replacement,complied,2026-04-05
+N135FQ,AD 2026-TR-0105,79,Engine oil pressure transmitter replacement,complied,2026-06-19
+N142GT,AD 2026-TR-0103,29,Hydraulic pump case drain filter inspection,complied,2026-01-08
+N142GT,AD 2026-TR-0105,79,Engine oil pressure transmitter replacement,open,
+N149HW,AD 2026-TR-0104,32,Main landing gear axle inspection,open,
+N149HW,AD 2026-TR-0105,79,Engine oil pressure transmitter replacement,open,
+N156IB,AD 2026-TR-0101,72,CFM56-7B fan blade inspection,complied,2026-08-12
+N156IB,AD 2026-TR-0105,79,Engine oil pressure transmitter replacement,complied,2026-05-29
+N163JE,AD 2026-TR-0102,36,Bleed air duct clamp replacement,open,
+N163JE,AD 2026-TR-0105,79,Engine oil pressure transmitter replacement,open,
+N170KH,AD 2026-TR-0103,29,Hydraulic pump case drain filter inspection,open,
+N170KH,AD 2026-TR-0105,79,Engine oil pressure transmitter replacement,open,
+N177LK,AD 2026-TR-0104,32,Main landing gear axle inspection,complied,2026-02-04
+N177LK,AD 2026-TR-0105,79,Engine oil pressure transmitter replacement,open,
+N184MN,AD 2026-TR-0101,72,CFM56-7B fan blade inspection,complied,2026-08-03
+N184MN,AD 2026-TR-0105,79,Engine oil pressure transmitter replacement,open,
+N191NQ,AD 2026-TR-0102,36,Bleed air duct clamp replacement,complied,2026-09-17
+N191NQ,AD 2026-TR-0105,79,Engine oil pressure transmitter replacement,open,
+N198OT,AD 2026-TR-0103,29,Hydraulic pump case drain filter inspection,complied,2026-10-06
+N198OT,AD 2026-TR-0105,79,Engine oil pressure transmitter replacement,complied,2026-02-07
+N205PW,AD 2026-TR-0104,32,Main landing gear axle inspection,open,
+N205PW,AD 2026-TR-0105,79,Engine oil pressure transmitter replacement,open,
+N212QB,AD 2026-TR-0101,72,CFM56-7B fan blade inspection,complied,2026-01-10
+N212QB,AD 2026-TR-0105,79,Engine oil pressure transmitter replacement,open,
+N219RE,AD 2026-TR-0102,36,Bleed air duct clamp replacement,complied,2026-07-30
+N219RE,AD 2026-TR-0105,79,Engine oil pressure transmitter replacement,complied,2026-03-19
+N226SH,AD 2026-TR-0103,29,Hydraulic pump case drain filter inspection,complied,2026-07-04
+N226SH,AD 2026-TR-0105,79,Engine oil pressure transmitter replacement,complied,2026-05-06
+N233TK,AD 2026-TR-0104,32,Main landing gear axle inspection,complied,2026-08-27
+N233TK,AD 2026-TR-0105,79,Engine oil pressure transmitter replacement,open,
